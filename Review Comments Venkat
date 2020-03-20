@@ -1,0 +1,12 @@
+Script is successfully running, Good Job.
+------------------------------------------------------------------------
+Feedback 1:
+Need you to update few accepts of the code.
+Add simple console outputs from each step.
+Like,
+driver.get('http://newtours.demoaut.com/')
+print("Application is launched.")
+
+Once all the contents are printed in console you can save it as a report.txt in the same folder or instead of print in console directly save in a file.
+For any run, we need proof of steps what it ran, with which data.
+------------------------------------------------------------------------
